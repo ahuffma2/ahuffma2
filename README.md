@@ -1,6 +1,6 @@
 # Hey! I'm Austin Huffman
 
-Video Game Developer turned Full Stack developer, I am looking to break into the web developer industry using my unique skills learned from my Georgia Tech education and my Game Development degree from Kennesaw State University. 
+Video Game Developer turned Full Stack developer, I am looking to break into the web developer industry using my skills gained from my Georgia Tech education and my Game Development degree from Kennesaw State University.
 
 ## Languages
 * C# 
