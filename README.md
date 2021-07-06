@@ -1,6 +1,6 @@
 # Hey! I'm Austin Huffman
 
-From Sales Specialist to Full Stack developer, I am looking to break into the web developer industry using my skills gained from my Georgia Tech education and my Game Development degree from Kennesaw State University.
+Full Stack developer looking for frontend/backend work , I am looking to break into the web developer industry using my skills gained from my Georgia Tech education and my Game Development degree from Kennesaw State University.
 
 ## Languages
 * C# 
@@ -19,6 +19,6 @@ From Sales Specialist to Full Stack developer, I am looking to break into the we
 ## Contact Info
 Email: AustinHuffman0@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/austinhuffman/)
+[LinkedIn](https://www.linkedin.com/in/ahuffma2/)
 
 [Itch.Io](https://austinhuffman0.itch.io/)
