@@ -12,6 +12,7 @@ Full Stack developer looking for frontend/backend work , I am looking to break i
 * REST API
 
 ## Technologies
+* Heroku
 * Unity
 * 3dsMax
 * Photoshop
