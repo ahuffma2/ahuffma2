@@ -7,9 +7,12 @@ Full Stack developer looking for frontend/backend work , I am looking to break i
 * Javascript
 * HTML
 * CSS
+---
 * Node.js
 * mySQL
-* REST API
+* REStful APIs
+* mongoDB
+* MVC
 
 ## Technologies
 * Heroku
