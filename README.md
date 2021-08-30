@@ -8,6 +8,8 @@ Full Stack developer looking for frontend/backend work , I am looking to break i
 * HTML
 * CSS
 ---
+* React
+* NextJS
 * Node.js
 * mySQL
 * REStful APIs
