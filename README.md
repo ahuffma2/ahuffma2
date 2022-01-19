@@ -1,7 +1,5 @@
 # Hey! I'm Austin Huffman
 
-Full Stack developer looking for frontend/backend work , I am looking to break into the web developer industry using my skills gained from my Georgia Tech education and my Game Development Degree from KSU
-
 ## Languages
 * C# 
 * Javascript
