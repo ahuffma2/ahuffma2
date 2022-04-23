@@ -1,4 +1,4 @@
-# Hey! I'm Austin Huffman
+# Hey! I'm Austi
 
 ## Languages
 * C# 
@@ -20,9 +20,3 @@
 * 3dsMax
 * Photoshop
 
-## Contact Info
-Email: AustinHuffman0@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/ahuffma2/)
-
-[Itch.Io](https://austinhuffman0.itch.io/)
