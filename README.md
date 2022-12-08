@@ -1,8 +1,9 @@
-# Hey! I'm Austi
+# Hi! I'm Austin
 
 ## Languages
 * C# 
-* Javascript
+* TypeScript
+* JavaScript
 * HTML
 * CSS
 ---
@@ -10,9 +11,12 @@
 * NextJS
 * Node.js
 * mySQL
-* REStful APIs
+* RESTful APIs
 * mongoDB
 * MVC
+* MaterialUI
+* Kendo React
+*
 
 ## Technologies
 * Heroku
