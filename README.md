@@ -16,7 +16,6 @@
 * MVC
 * MaterialUI
 * Kendo React
-*
 
 ## Technologies
 * Heroku
