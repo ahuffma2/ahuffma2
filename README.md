@@ -18,8 +18,11 @@
 * Kendo React
 
 ## Technologies
+* .Net6
 * Heroku
 * Unity
 * 3dsMax
 * Photoshop
+* Azure Cloud Libraries
+  
 
